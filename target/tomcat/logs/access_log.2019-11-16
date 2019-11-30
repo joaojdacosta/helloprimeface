@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:06:23:34 +0000] "POST /sisapp/login.xhtml HTTP/1.1" 200 272 http-bio-9090-exec-2 174
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:06:23:45 +0000] "POST /sisapp/login.xhtml HTTP/1.1" 200 272 http-bio-9090-exec-2 10
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:06:23:52 +0000] "GET /sisapp/login.xhtml HTTP/1.1" 200 9382 http-bio-9090-exec-2 32
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:06:23:52 +0000] "GET /sisapp/javax.faces.resource/core.js.xhtml;jsessionid=16DFFC56380F458BD57564DBB9EEC097?ln=primefaces&v=6.1 HTTP/1.1" 200 31198 http-bio-9090-exec-3 212
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:06:23:52 +0000] "GET /sisapp/javax.faces.resource/jquery/jquery.js.xhtml;jsessionid=16DFFC56380F458BD57564DBB9EEC097?ln=primefaces&v=6.1 HTTP/1.1" 200 107785 http-bio-9090-exec-7 253
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:06:23:52 +0000] "GET /sisapp/javax.faces.resource/components.js.xhtml;jsessionid=16DFFC56380F458BD57564DBB9EEC097?ln=primefaces&v=6.1 HTTP/1.1" 200 380560 http-bio-9090-exec-4 250
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:06:23:52 +0000] "GET /sisapp/javax.faces.resource/jquery/jquery-plugins.js.xhtml;jsessionid=16DFFC56380F458BD57564DBB9EEC097?ln=primefaces&v=6.1 HTTP/1.1" 200 248533 http-bio-9090-exec-1 251
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:06:23:52 +0000] "GET /sisapp/javax.faces.resource/components.css.xhtml;jsessionid=16DFFC56380F458BD57564DBB9EEC097?ln=primefaces&v=6.1 HTTP/1.1" 200 78530 http-bio-9090-exec-2 281
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:06:23:55 +0000] "GET /sisapp/login.xhtml;jsessionid=16DFFC56380F458BD57564DBB9EEC097 HTTP/1.1" 200 9030 http-bio-9090-exec-2 16
+0:0:0:0:0:0:0:1 - - [16/Nov/2019:07:31:04 +0000] "POST /sisapp/login.xhtml HTTP/1.1" 200 272 http-bio-9090-exec-9 11

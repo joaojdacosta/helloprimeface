@@ -1,0 +1,4 @@
+kill -9 $(lsof -t -i:9090 -sTCP:LISTEN)
+lsof -i:9090
+mvn tomcat7:run
+# acess the app using this endpoint http://localhost:9090/helloprimeface

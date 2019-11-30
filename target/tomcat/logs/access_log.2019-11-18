@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:09:30 +0000] "GET /sisapp/ HTTP/1.1" 200 9030 http-bio-9090-exec-1 1120
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:09:30 +0000] "GET /sisapp/javax.faces.resource/images/ui-icons_38667f_256x240.png.xhtml?ln=primefaces-aristo HTTP/1.1" 200 4369 http-bio-9090-exec-2 30
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:09:30 +0000] "GET /sisapp HTTP/1.1" 302 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:09:30 +0000] "GET /sisapp/ HTTP/1.1" 200 9028 http-bio-9090-exec-5 21
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:09:30 +0000] "GET /sisapp/javax.faces.resource/images/ui-icons_38667f_256x240.png.xhtml?ln=primefaces-aristo HTTP/1.1" 200 4369 http-bio-9090-exec-6 3
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:11:57 +0000] "GET /sisapp/ HTTP/1.1" 200 9052 http-bio-9090-exec-1 667
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:12:15 +0000] "GET /sisapp/ HTTP/1.1" 200 9050 http-bio-9090-exec-2 21
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:15:00 +0000] "POST /sisapp/login.xhtml HTTP/1.1" 200 220 http-bio-9090-exec-4 19
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:15:00 +0000] "GET /sisapp/javax.faces.resource/images/ui-icons_898989_256x240.png.xhtml?ln=primefaces-aristo HTTP/1.1" 200 5355 http-bio-9090-exec-5 165
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:15:00 +0000] "GET /sisapp/javax.faces.resource/images/ui-bg_flat_0_2d5972_40x100.png.xhtml?ln=primefaces-aristo HTTP/1.1" 200 183 http-bio-9090-exec-6 127
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:18:15:18 +0000] "POST /sisapp/login.xhtml HTTP/1.1" 200 220 http-bio-9090-exec-7 11
